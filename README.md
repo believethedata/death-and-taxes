@@ -1,6 +1,6 @@
 # death-and-taxes
 
-This repo contains all the data and code used to produce the [Politics, religion, death and taxes](https://believethedata.org/) article.
+This repo contains all the data and code used to produce the [Politics, religion, death and taxes](https://believethedata.org/politics-religion-death-and-taxes/) article.
 
 The full workflow for the analysis behind the article is contained in the `analysis.ipynb` notebook.
 
